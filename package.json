@@ -1,0 +1,26 @@
+{
+  "name": "jestgzip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YNOV-Node-Advanced/gzip-cli-RBG74.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YNOV-Node-Advanced/gzip-cli-RBG74/issues"
+  },
+  "homepage": "https://github.com/YNOV-Node-Advanced/gzip-cli-RBG74#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "zlib": "^1.0.5"
+  },
+  "devDependencies": {
+    "jest": "^23.1.0"
+  }
+}
